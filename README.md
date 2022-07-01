@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliotwrobson
 - 👀 I’m interested in theoretical computer science!
-- 🌱 I’m currently learning FPT algorithms and algorithms for metric spaces.
+- 🌱 I’m currently learning about nearest neighbor problems.
 - 💞️ I’m looking to collaborate on papers.
 - 📫 How to reach me: erobson2@illinois.edu.
 
