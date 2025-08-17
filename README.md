@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @eliotwrobson
-- 👀 I’m interested in theoretical computer science!
-- 🌱 I’m currently learning about geometry in high dimensions.
 - 💞️ I’m looking to collaborate on open-source projects, focusing on algorithmic performance improvements.
-- 📫 How to reach me: erobson2@illinois.edu.
+- 📫 How to reach me: eliot.robson24@gmail.com.
 
 <!---
 eliotwrobson/eliotwrobson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
